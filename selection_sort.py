@@ -40,5 +40,5 @@ def insertion_sort(arr):
     print("Загальна кількість присвоєнь:", assignments)
     return arr, comparisons, assignments
  
-my_list = [47, 50, 61, 41, 53, 12, 68, 63, 3]
+my_list = [53, 100, 44, 74, 53, 38, 82, 65, 28]
 insertion_sort(my_list.copy())
